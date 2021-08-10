@@ -1,0 +1,8 @@
+ALGORITHM checkpoint_string
+VAR
+    var c,w: CHAR;
+    v:INTEGER;
+BEGIN
+
+
+END
